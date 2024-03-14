@@ -1,7 +1,7 @@
 # Speech Synthesis (TTS) Papers
 Compiled with references from https://github.com/wenet-e2e/speech-synthesis-papers, with additions on the TTS front-end side and slight modifications.
 Checkout the original list &uarr;!
-Like the original list, I keep starred papers.
+Like the original list, I keep starred papers (cited for more than 50 times)
 
 ## Datasets
 * Emotional Speech Synthesis
@@ -11,6 +11,7 @@ Like the original list, I keep starred papers.
 ### Text Normalization
 
 ### Grapheme-to-Phoneme (G2P)
+* [Grapheme-to-Phoneme Conversion using Long Short-Term Memory](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43264.pdf) :stars: (IEEE ICASSP 2015)
 * [Transformer-based Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/2004.06338) (INTERSPEECH 2019)
   
 ### Phrase Break Prediction
