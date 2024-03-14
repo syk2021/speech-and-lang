@@ -40,11 +40,11 @@ Like the original list, I keep starred papers (cited for more than 50 times)
 A vocoder takes a mel-spectrogram and converts it into an audio file, like a wavfile.
 
 ### Autoregressive Model
-* WaveNet: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) :stars: (2016)
+* WaveNet :stars:: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) (2016)
    * Google DeepMind's post: https://deepmind.google/technologies/wavenet/
-* WaveRNN: [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435) :stars: (ICML 2018)
-* WaveGAN: [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208) :stars: (ICLR 2019)
-* LPCNet: [LPCNet: Improving Neural Speech Synthesis Through Linear Prediction](https://arxiv.org/abs/1810.11846) :stars: (ICASSP 2019)
+* WaveRNN :stars:: [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435) (ICML 2018)
+* WaveGAN :stars:: [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208) (ICLR 2019)
+* LPCNet :stars:: [LPCNet: Improving Neural Speech Synthesis Through Linear Prediction](https://arxiv.org/abs/1810.11846) (ICASSP 2019)
 
 ### Non-Autoregressive Models
 
