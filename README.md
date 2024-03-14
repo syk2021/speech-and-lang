@@ -9,7 +9,7 @@ For section titles, I include short descriptions of what subsection is (ie what 
 
 Keep in mind that I am also still learning + discovering papers (and yes this means that means this list is not exhaustive!), so please send any requests as a PR through this repo :) 
 
-[Korean] 음성합성 논문 쓰다가 데이터셋 + 논문 찾아보는데 시간이 꽤나 걸리는 것을 발견하여...! 깃허브 리포지토리로 정리했습니다.. 각 subrepo별로 음성/언어 AI 관련 논문 / 데이터셋을 모아두었으나 아직 공부하는 학생이므로 리스트가 아주 완벽하진 않습니다ㅎㅎ 추가할법한 논문, 데이터셋을 알고 계실 경우 PR로 추가 부탁드립니다 :blush:
+[Korean] 음성합성 논문 쓰다가 데이터셋 + 논문 찾아보는데 시간이 꽤나 걸리는 것을 발견하여...! 깃허브 리포지토리로 정리했습니다.. 각 subrepo별로 음성/언어 AI 관련 논문 / 데이터셋을 모아두었으나 아직 공부하는 학생이므로 리스트가 아주 완벽하진 않습니다ㅎㅎ 추가할법한 논문, 데이터셋을 알고 계실 경우 PR 요청 부탁드립니다 :blush:
 
 <hr/>
 
