@@ -30,7 +30,7 @@ Like the original list, I keep starred papers (cited for more than 50 times)
       * Replaces attention mechanism and uses a structure called Gaussian Upsampler & Duration Predictor
 
 ### Non-Autoregressive Model
-* FastSpeech: [FastSpeech: Fast, Robust, and Controllable Text-to-Speech](https://arxiv.org/abs/1905.09263) (NeurIPS 2019)
+* FastSpeech :stars:: [FastSpeech: Fast, Robust, and Controllable Text-to-Speech](https://arxiv.org/abs/1905.09263) (NeurIPS 2019)
 
 ### Alignment Study
 
