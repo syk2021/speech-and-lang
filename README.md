@@ -43,7 +43,7 @@ Sections (Repos)
 
 Also, just including some interesting (and free) resources that I used to study Speech & Language AI:
 * [Stanford CS224N Natural Language Proceessing](https://web.stanford.edu/class/cs224n/)
-* [Speech and Language Processing (also from Stanford)](https://web.stanford.edu/~jurafsky/slp3/)
+* [Speech and Language Processing by Jurasky and Martin (also from Stanford)](https://web.stanford.edu/~jurafsky/slp3/)
     * If you want to get a textbook-style intro to NLP & its applications this is your go to
     * Includes Machine Translation, Question Answering, Chatbots & Dialogues, Automatic Speech Recognition & Text-to-Speech
     * Speech & Language Processing also includes a lot of cited papers at the end, so care to take a look!
