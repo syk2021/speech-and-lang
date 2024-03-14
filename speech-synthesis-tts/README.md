@@ -14,6 +14,8 @@ Like the original list, I keep starred papers.
 * [Transformer-based Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/2004.06338) (INTERSPEECH 2019)
   
 ### Phrase Break Prediction
+* [Assigning phrase breaks from part-of-speech sequences](https://www.isca-archive.org/eurospeech_1997/black97b_eurospeech.html) (Eurospeech / INTERSPEECH 1997)
+* [Phrase break prediction with bidirectional encoder representations in Japanese text-to-speech synthesis](https://arxiv.org/abs/2104.12395) (INTERSPEECH 2021)
 
 ## TTS Acoustic Back-end
 ### Autoregressive Model
@@ -25,7 +27,6 @@ Like the original list, I keep starred papers.
 
 ### Non-Autoregressive Model
 * FastSpeech: [FastSpeech: Fast, Robust, and Controllable Text-to-Speech](https://arxiv.org/abs/1905.09263) (NeurIPS 2019)
-* Fast
 
 ### Alignment Study
 
