@@ -25,6 +25,8 @@ Papers with more than 50 citations have :stars: symbols next to them. Read them 
 <hr/>
 
 Sections (Repos)
+Navigate to each repo to find a README on each Language / Speech Topic!
+
 > Speech Translation (S2ST) Papers
 
 > Speech Synthesis (TTS) Papers
