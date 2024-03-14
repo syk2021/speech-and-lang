@@ -13,6 +13,7 @@ Keep in mind that I am also still learning + discovering papers (and yes this me
 
 <hr/>
 
+### Hello and Welcome
 So, where to begin? What if you're new to AI and want to start learning?
 Start by reading this paper by Google, and then move on to each repo of your interest.
 Each repo is a starting point in AI research, and each has a README.md that has subsections with each field if you want to dive deeper!
@@ -24,7 +25,8 @@ Papers with more than 50 citations have :stars: symbols next to them. Read them 
 
 <hr/>
 
-Sections (Repos)
+### Sections (Repos)
+
 Navigate to each repo to find a README on each Language / Speech Topic!
 
 > Speech Translation (S2ST) Papers
@@ -43,6 +45,8 @@ Navigate to each repo to find a README on each Language / Speech Topic!
 
 <hr/>
 
+### Interesting (and free) resources you might find useful
+
 Also, just including some interesting (and free) resources that I used to study Speech & Language AI:
 * [Stanford CS224N Natural Language Proceessing](https://web.stanford.edu/class/cs224n/)
 * [Speech and Language Processing by Jurasky and Martin (also from Stanford)](https://web.stanford.edu/~jurafsky/slp3/)
@@ -54,6 +58,8 @@ Also, just including some interesting (and free) resources that I used to study 
     * [<b>Audio</b>](https://huggingface.co/learn/audio-course/chapter0/introduction)
  
 <hr/>
+
+### Interesting Libraries & Tutorials
 
 Interesting libraries & resources if you are a speech enthusiast.
 * <b>librosa</b> &rarr; you can graph mel-spectrograms on your own with librosa.ex files. [Here's](https://librosa.org/doc/main/generated/librosa.feature.melspectrogram.html) a helpful tutorial on this.
