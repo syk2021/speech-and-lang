@@ -41,7 +41,7 @@ Also, just including some interesting (and free) resources that I used to study 
 Interesting libraries & resources if you are a speech enthusiast.
 * <b>librosa</b> &rarr; you can graph mel-spectrograms on your own with librosa.ex files. [Here's](https://librosa.org/doc/main/generated/librosa.feature.melspectrogram.html) a helpful tutorial on this.
 * <b>gradio</b> &rarr; making audio demonstrations with an interface
-* <b>torchaudio</b> &arr; [This](https://pytorch.org/audio/stable/index.html) is the torchaudio documentation, and also has interesting tutorials on the topics below &darr;
+* <b>torchaudio</b> &rarr; [This](https://pytorch.org/audio/stable/index.html) is the torchaudio documentation, and also has interesting tutorials on the topics below &darr;
     * It includes ASR / CTC / CTC Decoder / CUDA CTC Decoder / DSP / Dataset / Forced Alignment / I/O / Pipelines / Preprocessing / RNNT / Source Separation / Speech / Speech Enhancement / StreamReader / StreamWrite / TTS (Text-to-Speech) / wav2vec2
 * <b>WandB</b> &rarr; You will need this to train & find hyperparameters. Alternatively, you can use Tensorboard.
 * <b>Google Colab</b> &rarr; can use their GPU to train but you will probably need to upgrade to Pro for more compute.
