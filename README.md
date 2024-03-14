@@ -18,6 +18,8 @@ Each repo is a starting point in AI research, and each has a README.md that has 
   
 &uarr; This is basically like the foundation of any of the papers you will see in recent AI research + you'll need to understand this to read any paper that follows in the repos in `speech-and-lang` repo.
 
+Papers with more than 50 citations have :stars: symbols next to them. Read them first!
+
 <hr/>
 
 Sections (Repos)
