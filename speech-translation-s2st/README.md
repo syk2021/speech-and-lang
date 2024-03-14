@@ -12,11 +12,11 @@ Depending on what style of speech you choose &uarr; and what domains the dataset
 * Fisher Es-En: [Improved speech-to-text translation with the Fisher and Callhome Spanish-English speech translation corpus](https://aclanthology.org/2013.iwslt-papers.14/) (IWSLT 2013)
     * Spanish telephone conversations
     * Remark: I think this is one of the most commonly used datasets in spoken language translation.
-* VoxPopuli: [VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation](https://aclanthology.org/2021.acl-long.80/)
+* VoxPopuli: [VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation](https://aclanthology.org/2021.acl-long.80/) (ACL Proceedings 2021)
     * HuggingFace datasets: [facebook/voxpopuli](https://huggingface.co/datasets/facebook/voxpopuli)
     * 1.8K hours of transcribed speeches in 15 languages
     * AND their aligned oral interpretations into 15 target languages
-* CVSS: [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.720.pdf)
+* CVSS: [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.720.pdf) (LREC 2022)
     * HuggingFace datasets: [google/cvss](https://huggingface.co/datasets/google/cvss)
     * S2ST dataset derived from CoVoST2 ST corpus (speech-to-text translation corpus), which is in turn derived from Common Voice
  
