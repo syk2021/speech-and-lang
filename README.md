@@ -9,6 +9,17 @@ For section titles, I include short descriptions of what subsection is (ie what 
 
 Keep in mind that I am also still learning + discovering papers (and yes this means that means this list is not exhaustive!), so please send any requests as a PR through this repo :) 
 
+<hr/>
+
+So, where to begin? What if you're new to AI and want to start learning?
+Start by reading this paper by Google, and then move on to each repo of your interest.
+Each repo is a starting point in AI research, and each has a README.md that has subsections with each field if you want to dive deeper!
+- <b>Attention is All You Need</b>: [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (NeurIPS 2017) &rarr; 110,000+ citations and counting.
+  
+&uarr; This is basically like the foundation of any of the papers you will see in recent AI research + you'll need to understand this to read any paper that follows in the repos in `speech-and-lang` repo.
+
+<hr/>
+
 Sections (Repos)
 > Speech Translation (S2ST) Papers
 
