@@ -67,3 +67,6 @@ Interesting libraries & resources if you are a speech enthusiast.
 Last note:
 If you ever need to use HuggingFace datasets, set streaming=True and do next(iter(dataset_var)).
 This will save your computer from running out of local memory :innocent: and yes, if you download VoxPopuli, CommonVoice, FLEURS, etc you will eventually run out of memory... (~~This is coming from experience~~)
+
+<hr/>
+앗 그리고 한국분들은 네이버클라우드 논문 리스트도 있습니다 &rarr; https://naver-career.gitbook.io/en/publications/all
