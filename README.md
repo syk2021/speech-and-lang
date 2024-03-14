@@ -1,7 +1,7 @@
 # speech-and-lang
 <hr/>
 
-Made this repo on 03.14.2024. because I got tired of looking up papers & datasets while writing a research paper. Hopefully this expedites any ongoing research efforts in my future. This is also a BIG LIST for my own reference haha.
+Made this repo on 03.14.2024. because I got tired of looking up papers & datasets while writing a research paper. Hopefully this expedites any ongoing research efforts in the future. This is also a BIG LIST for my own reference haha.
 
 For datasets, I include the paper link + HuggingFace datasets link whenever possible.
 
