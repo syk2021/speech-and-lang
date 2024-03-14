@@ -11,7 +11,7 @@ Like the original list, I keep starred papers (cited for more than 50 times)
 ### Text Normalization
 
 ### Grapheme-to-Phoneme (G2P)
-* [Grapheme-to-Phoneme Conversion using Long Short-Term Memory](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43264.pdf) :stars: (IEEE ICASSP 2015)
+* [Grapheme-to-Phoneme Conversion using Long Short-Term Memory Recurrent Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43264.pdf) :stars: (IEEE ICASSP 2015)
 * [Transformer-based Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/2004.06338) (INTERSPEECH 2019)
   
 ### Phrase Break Prediction
