@@ -18,7 +18,7 @@ Like the original list, I keep starred papers (cited for more than 50 times)
 * [Transformer-based Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/2004.06338) (INTERSPEECH 2019)
   
 ### Phrase Break Prediction
-* [Assigning phrase breaks from part-of-speech sequences](https://www.isca-archive.org/eurospeech_1997/black97b_eurospeech.html) (Eurospeech / INTERSPEECH 1997)
+* [Assigning phrase breaks from part-of-speech sequences](https://www.isca-archive.org/eurospeech_1997/black97b_eurospeech.html) :stars: (Eurospeech / INTERSPEECH 1997)
 * [Phrase break prediction with bidirectional encoder representations in Japanese text-to-speech synthesis](https://arxiv.org/abs/2104.12395) (INTERSPEECH 2021)
 
 ## TTS Acoustic Back-end
