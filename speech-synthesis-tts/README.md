@@ -15,7 +15,7 @@ Like the original list, I keep starred papers (cited for more than 50 times)
 * [Grapheme-to-Phoneme Conversion using Long Short-Term Memory Recurrent Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43264.pdf) :stars: (IEEE ICASSP 2015)
 * [Jointly Learning to Align and Convert Graphemes to Phonemes with Neural Attention Models](https://arxiv.org/abs/1610.06540) :stars: (IEEE SLT 2016)
 * [Multitask Sequence-to-Sequence Models for Grapheme-to-Phoneme Conversion](https://www.isca-archive.org/interspeech_2017/milde17_interspeech.html) (INTERSPEECH 2017)
-* [Transformer-based Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/2004.06338) (INTERSPEECH 2019)
+* [Transformer-based Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/2004.06338) :stars: (INTERSPEECH 2019)
   
 ### Phrase Break Prediction
 * [Assigning phrase breaks from part-of-speech sequences](https://www.isca-archive.org/eurospeech_1997/black97b_eurospeech.html) :stars: (Eurospeech / INTERSPEECH 1997)
