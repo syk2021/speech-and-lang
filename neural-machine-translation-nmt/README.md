@@ -36,6 +36,7 @@ See also:
     * This isn't a published paper per se, but it is a helpful resource nonetheless.
 
 ### Dealing with Noise in NMT
-NMT has been shown to be particularly susceptible to noise.
+NMT has been shown to be particularly susceptible to noise. This is why the MTNT dataset is used as a benchmark to test how robust NMT systems are against noisy input.
 * [Synthetic and Natural Noise Both Break Neural Machine Translation](https://arxiv.org/abs/1711.02173) :stars: (ICLR 2018)
-* 
+* [Ask Language Model to Clean Your Noisy Translation Data](https://aclanthology.org/2023.findings-emnlp.212/) (Findings EMNLP 2023)
+     * A recent study asks GPT to clean noisy translation data. They address the issue that MTNT dataset contains noise in both the source and target sentences and prompt GPT to clean noise from target sentences in MTNT & make it more suitable for noise evaluation. Findings, but I think it's an interesting study.
