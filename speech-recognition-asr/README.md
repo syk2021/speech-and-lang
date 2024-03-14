@@ -11,3 +11,9 @@
 * FLEURS: [FLEURS: FEW-Shot Learning Evaluation of Universal Representations of Speech](https://ieeexplore.ieee.org/document/10023141) (IEEE Spoken Language Technology Workshop 2022)
     * HuggingFace datasets: [google/fleurs](https://huggingface.co/datasets/google/fleurs)
     * This paper also includes a table on speech datasets that might be EXTREMELY HELPFUL for speech research.
+* VoxCeleb: [VoxCeleb: A large-scale speaker identification dataset](https://arxiv.org/abs/1706.08612)
+ 
+## Papers
+### Speaker Diarization
+### Speaker Recognition
+### 
