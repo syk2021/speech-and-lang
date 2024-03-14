@@ -24,9 +24,9 @@ Like the original list, I keep starred papers (cited for more than 50 times)
 ## TTS Acoustic Back-end
 ### Autoregressive Model
 * Tacotron Series <i>End-to-End Speech Synthesis Models by Google</i>
-    * Tacotron: [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) (INTERSPEECH 2017)
-    * Tacotron 2: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884) (ICASSP 2018)
-    * Non-Attentive Tacotron: [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) (arXiv preprint 2020)
+    * Tacotron: [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) :stars: (INTERSPEECH 2017)
+    * Tacotron 2: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884) :stars: (ICASSP 2018)
+    * Non-Attentive Tacotron: [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) :stars: (arXiv preprint 2020)
       * Replaces attention mechanism and uses a structure called Gaussian Upsampler & Duration Predictor
 
 ### Non-Autoregressive Model
