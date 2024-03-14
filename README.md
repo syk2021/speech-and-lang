@@ -56,7 +56,7 @@ Interesting libraries & resources if you are a speech enthusiast.
     * It includes ASR / CTC / CTC Decoder / CUDA CTC Decoder / DSP / Dataset / Forced Alignment / I/O / Pipelines / Preprocessing / RNNT / Source Separation / Speech / Speech Enhancement / StreamReader / StreamWrite / TTS (Text-to-Speech) / wav2vec2
 * <b>WandB</b> &rarr; You will need this to train & find hyperparameters. Alternatively, you can use Tensorboard.
 * <b>Google Colab</b> &rarr; can use their GPU to train but you will probably need to upgrade to Pro for more compute.
-* <b>NeMo Tutorials</b> &rarr; Nvidia also has helpful resources on speech processing.
+* <b>[NeMo Tutorials](https://nvidia.github.io/NeMo/)</b> &rarr; Nvidia also has helpful resources on speech processing.
 
 <hr/>
 
