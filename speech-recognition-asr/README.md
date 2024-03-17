@@ -1,5 +1,9 @@
 # Speech Recognition (ASR) Papers
 
+A good place to start: speech synthesis survey by IEEE Board members &darr;
+
+[End-to-End Speech Recognition: A Survey](https://arxiv.org/pdf/2303.03329.pdf) (IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023)
+
 ## Datasets
 * LibriSpeech: [LibriSpeech: An ASR corpus based on public domain audio books](https://ieeexplore.ieee.org/document/7178964) (IEEE ICASSP 2015)
     * HuggingFace datasets: [librispeech_asr](https://huggingface.co/datasets/librispeech_asr)
